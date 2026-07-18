@@ -16,7 +16,7 @@ The dashboard helps analyze overall business performance by tracking:
 ---
 ## Dashboard Preview
 ## 📊 Dashboard Preview
-![Ecommerce Sales Dashboard](Images/dashboard-overview.png)
+![Ecommerce Sales Dashboard](dashboard-overview.png) 
 ---
 ## Tools Used
 - Microsoft Power BI
