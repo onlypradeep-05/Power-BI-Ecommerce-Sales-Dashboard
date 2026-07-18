@@ -15,7 +15,8 @@ The dashboard helps analyze overall business performance by tracking:
 - Profit by Product Sub-Category
 ---
 ## Dashboard Preview
-dashboard-overview.png
+## 📊 Dashboard Preview
+![Ecommerce Sales Dashboard](Images/dashboard-overview.png)
 ---
 ## Tools Used
 - Microsoft Power BI
